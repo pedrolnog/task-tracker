@@ -1,2 +1,2 @@
 # task-tracker
-Gerenciados de tarefas em Java.
+Gerenciador de tarefas básico em Java.
